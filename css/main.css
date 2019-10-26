@@ -35,6 +35,7 @@ time, mark, audio, video {
 
 body {
   line-height: 1;
+  background-color: gray;
 }
 
 article, aside, details, figcaption, figure,
